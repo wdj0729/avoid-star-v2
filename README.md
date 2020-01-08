@@ -7,5 +7,5 @@ git을 이용하여 clone 혹은 .zip 파일을 다운로드 받기
 ## 사용 방법 (Usage)
 Visual Studio를 이용하여 실행
 
-##시연 영상
+## 시연 영상
 https://www.youtube.com/watch?v=pED1RSYR5H0&feature=youtu.be
